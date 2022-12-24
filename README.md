@@ -1,2 +1,2 @@
 # avr_baremetal
-programming atmega2560 without using avr standard libraries
+programming Arduino Mega 2560 without using avr standard libraries
